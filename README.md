@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @ishipu
-- 👀 I’m interested in anything
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: ping me
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif" width="200"/>
@@ -37,15 +32,11 @@
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="300"/>
 </div>
 
-
-### :technologist: About Me : Hi, I am Shipu. I am a Data Engineer <img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="30"> from Bangladesh.
-- :telescope: I’m working as a Data Engineer and contributing for building a new view to data.
-
-- :seedling: Exploring Various Technical Ways To Make Life Easier.
-
-- :zap: In my free time, I solve problems on Various sites and build new Rices for my Arch.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shipankar-sarker-498528196/)
+- 👋 Hi, I’m @ishipu
+- 👀 I’m interested in anything
+- 🌱 I’m currently learning everything
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me: ping me
 
 
 ### :hammer_and_wrench: Languages and Tools :
